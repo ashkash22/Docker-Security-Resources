@@ -1,6 +1,5 @@
-# Docker-Pentesting
-List of some weapons and tools for docker security
+# Docker-Security
 
-Just another repo with some solid resources for docker :} 
+Just another repo with some solid resources for docker security for noobs like me to get started :} 
 
 Further update under progress ......
